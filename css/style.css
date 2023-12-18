@@ -35,14 +35,14 @@ body{
   color: #18202B;
   font-size: 1.5rem;
   font-weight: 700;
-  max-width: auto;
+  max-width: 350px;
   margin-bottom: 20px;
 }
 .card__description{
   color: #18202B;
   font-size: 1.25rem;
   font-weight: 500;
-  max-width: auto;
+  max-width: 350px;
   margin-bottom: 20px;
   opacity: 0.5;
 }
